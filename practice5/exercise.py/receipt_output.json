@@ -1,0 +1,31 @@
+{
+  "store": {
+    "branch": "Филиал ТОО EUROPHARMA Астана",
+    "bin": "080841000762",
+    "address": "г. Нур-султан,Казахстан, Мангилик Ел,19, нп-5"
+  },
+  "receipt": {
+    "order_number": "61",
+    "receipt_number": "2331180266"
+  },
+  "datetime": {
+    "date": "18.04.2019",
+    "time": "11:13:58"
+  },
+  "payment": {
+    "method": "Card",
+    "total": 0.0
+  },
+  "items": [],
+  "summary": {
+    "item_count": 0,
+    "product_names": [],
+    "total_unique_products": 0,
+    "subtotal": 0,
+    "total": 0.0
+  },
+  "debug": {
+    "prices_found": 83,
+    "product_names_found": 0
+  }
+}
