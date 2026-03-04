@@ -14,18 +14,153 @@
   },
   "payment": {
     "method": "Card",
-    "total": 0.0
+    "card_amount": 18009.0
   },
-  "items": [],
-  "summary": {
-    "item_count": 0,
-    "product_names": [],
-    "total_unique_products": 0,
-    "subtotal": 0,
-    "total": 0.0
-  },
-  "debug": {
-    "prices_found": 83,
-    "product_names_found": 0
+  "items": [
+    {
+      "number": 1,
+      "name": "Натрия хлорид 0,9%, 200 мл, фл",
+      "quantity": 2.0,
+      "unit_price": 154.0,
+      "total_price": 308.0
+    },
+    {
+      "number": 2,
+      "name": "Борный спирт 3%, 20 мл, фл.",
+      "quantity": 1.0,
+      "unit_price": 51.0,
+      "total_price": 51.0
+    },
+    {
+      "number": 3,
+      "name": "Шприц 2 мл, 3-х комп. (Bioject)",
+      "quantity": 2.0,
+      "unit_price": 16.0,
+      "total_price": 32.0
+    },
+    {
+      "number": 4,
+      "name": "Система для инфузии Vogt Medical",
+      "quantity": 2.0,
+      "unit_price": 60.0,
+      "total_price": 120.0
+    },
+    {
+      "number": 5,
+      "name": "Шприц 5 мл, 3-х комп.",
+      "quantity": 1.0,
+      "unit_price": 310.0,
+      "total_price": 310.0
+    },
+    {
+      "number": 6,
+      "name": "AURA Ватные диски №150",
+      "quantity": 1.0,
+      "unit_price": 461.0,
+      "total_price": 461.0
+    },
+    {
+      "number": 7,
+      "name": "Чистая линия скраб мягкий 50 мл",
+      "quantity": 1.0,
+      "unit_price": 381.0,
+      "total_price": 381.0
+    },
+    {
+      "number": 8,
+      "name": "Чистая линия  скраб очищающийабрикос 50 мл",
+      "quantity": 1.0,
+      "unit_price": 386.0,
+      "total_price": 386.0
+    },
+    {
+      "number": 9,
+      "name": "Чистая линия скраб мягкий 50 мл",
+      "quantity": 1.0,
+      "unit_price": 381.0,
+      "total_price": 381.0
+    },
+    {
+      "number": 10,
+      "name": "Nivea шампунь 3в1мужской  400 мл",
+      "quantity": 1.0,
+      "unit_price": 414.0,
+      "total_price": 414.0
+    },
+    {
+      "number": 11,
+      "name": "Pro Series Шампунь яркий цвет 500мл",
+      "quantity": 1.0,
+      "unit_price": 841.0,
+      "total_price": 841.0
+    },
+    {
+      "number": 12,
+      "name": "Pro Series бальзам-ополаскивательдля длител ухода за окрашеннымиволосами Яркий цвет 500мл",
+      "quantity": 1.0,
+      "unit_price": 841.0,
+      "total_price": 841.0
+    },
+    {
+      "number": 13,
+      "name": "Clear шампунь Актив спорт 2в1мужской  400 мл",
+      "quantity": 1.0,
+      "unit_price": 1200.0,
+      "total_price": 1200.0
+    },
+    {
+      "number": 14,
+      "name": "Bio World (HYDRO THERAPY)Мицеллярная вода 5в1, 445мл",
+      "quantity": 1.0,
+      "unit_price": 1152.0,
+      "total_price": 1152.0
+    },
+    {
+      "number": 15,
+      "name": "Bio World (HYDRO THERAPY) Гель-муссдля умывания с гиалуроновойкислотой, 250мл",
+      "quantity": 1.0,
+      "unit_price": 1152.0,
+      "total_price": 1152.0
+    },
+    {
+      "number": 16,
+      "name": "[RX]-Натрия хлорид 0,9%, 100 мл, фл.",
+      "quantity": 1.0,
+      "unit_price": 168.0,
+      "total_price": 168.0
+    },
+    {
+      "number": 17,
+      "name": "[RX]-Дисоль р-р 400 мл, фл.",
+      "quantity": 1.0,
+      "unit_price": 163.0,
+      "total_price": 163.0
+    },
+    {
+      "number": 18,
+      "name": "Тагансорбент с иономи серебра №30,пор.",
+      "quantity": 1.0,
+      "unit_price": 1526.0,
+      "total_price": 1526.0
+    },
+    {
+      "number": 19,
+      "name": "[RX]-Церукал 2%, 2 мл, №10, амп.",
+      "quantity": 2.0,
+      "unit_price": 396.0,
+      "total_price": 792.0
+    },
+    {
+      "number": 20,
+      "name": "[RX]-Андазол 200 мг, №40, табл.",
+      "quantity": 1.0,
+      "unit_price": 7330.0,
+      "total_price": 7330.0
+    }
+  ],
+  "totals": {
+    "items_sum": 18009.0,
+    "total_amount": 0.0,
+    "item_count": 20
   }
 }
