@@ -64,7 +64,7 @@ def insert_from_csv(filepath: str):
     with get_connection() as conn:
         with conn.cursor() as cur:
             # Open the CSV with utf-8 encoding to handle special characters
-            with open(filepath, newline='', encoding='utf-8') as f:
+            with open(filepath, newline='', encoding='cp1251') as f:
                 reader = csv.DictReader(f)  # reads header row automatically
                 for row in reader:
                     cur.execute(sql, (
